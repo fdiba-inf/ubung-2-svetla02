@@ -19,18 +19,23 @@ public static void main(String[] args) {
         x1 = ((b * - 1) + Math.sqrt(D)) / (2 * a);
         x2 = ((b * - 1) - Math.sqrt(D)) / (2 * a);
         System.out.println(x1 + ", " + x2);
+
       } else {
         System.out.println("Imaginary values");
       }
     } else {
-      if(b != 0) {
+      if(b !=0) {
         x = (0 - c) / b;
         System.out.println(x);
+
       } else {
-        if(c != 0) {
+        if (c !=0) {
           System.out.println("No values");
+
         } else {
           System.out.println("Many values");
+          
+
         
       
         }

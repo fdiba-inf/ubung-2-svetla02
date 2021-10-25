@@ -32,7 +32,6 @@ public class DayOfWeek {
           break;
           default:
           System.out.println("Day of week: Invalid day");
-          
 
         }
 

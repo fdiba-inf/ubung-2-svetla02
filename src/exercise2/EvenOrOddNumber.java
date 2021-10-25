@@ -14,6 +14,7 @@ public class EvenOrOddNumber {
         } else if (number % 2 == 1) {
         System.out.println("Number is odd");
         }
+        
           
       
    }
